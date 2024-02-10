@@ -1,0 +1,8 @@
+﻿  Main.cpp
+D:\SCORE\SCORE\SCORE\Main.cpp(184,19): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+D:\SCORE\SCORE\SCORE\Main.cpp(188,1): warning C4244: '-=': 'double' から 'int' への変換です。データが失われる可能性があります。
+D:\SCORE\SCORE\SCORE\Main.cpp(194,19): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+D:\SCORE\SCORE\SCORE\Main.cpp(202,1): warning C4244: '-=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  SCORE.vcxproj -> D:\SCORE\SCORE\Intermediate\SCORE\Debug\SCORE(debug).exe
+  D:\SCORE\SCORE\Intermediate\SCORE\Debug\SCORE(debug).exe
+  1 個のファイルをコピーしました
